@@ -15,5 +15,5 @@ Black & Scholes modelling : from the B&S mathematical equation, i gave the formu
 
 In the first graph, we can see a relation bewteen S and the call and put values. When S increseas , the Call value increase and the Put value decrease and inversely.
 If we bought a call option with a strike price X at the money or in the money (meaning that at the time of the purchase S = K or S > K), if S increases we make money, and if we bought the Call out of the money (K>S), same result but we make money when S surpasse K.
-
+s
 
