@@ -4,7 +4,7 @@ All the content you will find there come from the Udemy class 'Mathematical Fina
 
 I decided to take this course in order to improve my coding on Jupyter Lab, and also because these tools are very useful when dealing with options.
 
-**Black & Scholes modelling : from the B&S mathematical equation, i gave the formula for a Call and a Put **
+**Black & Scholes modelling : from the B&S mathematical equation, i gave the formula for a Call and a Put**
 
 -N() = cumulative distribution function  
 
