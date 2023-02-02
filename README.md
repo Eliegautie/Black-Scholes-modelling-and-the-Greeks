@@ -19,14 +19,15 @@ I decided to take this course in order to improve my coding on Jupyter Lab, and 
 - sigma = volatility of the underlying stock  
 
 
-In the first graph, we can see a relation bewteen S and the call and put values. When S increseas , the Call value increase and the Put value decrease and inversely.  
+In the first graph, we can see a relation bewteen **S** and the call and put values. When **S** increseas , the Call value increase and the Put value decrease and inversely.  
 
-If we bought a call option with a strike price X at the money or in the money (meaning that at the time of the purchase S = K or S > K), if S increases we make money,  
+If we bought a call option with a strike price X at the money or in the money (meaning that at the time of the purchase **S** = **K** or **S** > **K**), if S increases we make money. 
 
-and if we bought the Call out of the money (K > S), same result but we make money when S surpasse K.  
+If we bought the Call out of the money (**K** > **S**), same result but we make money when **S** surpasse **K**.   
+
 
 **T become a variable**  
-For any stable stock, the price is expcected to increase as time progresses. That's why when T increase, the option Call value increase steadily and the Put value decrease. Important note, the Put value decrease only after a certain period of time, if T is small, the option Put value stay at an certain level. We can deduct from this graph that holding aPut option over a long period of time will not get us any profit.
+For any stable stock, the price is expcected to increase as time progresses. That's why when **T** increase, the option Call value increase steadily and the Put value decrease. Important note, the Put value decrease only after a certain period of time, if **T** is small, the option Put value stay at an certain level. We can deduct from this graph that holding aPut option over a long period of time will not get us any profit.
 
 
 
