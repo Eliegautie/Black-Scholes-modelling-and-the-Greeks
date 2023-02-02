@@ -15,6 +15,7 @@ I decided to take this course in order to improve my coding on Jupyter Lab, and 
 - K = strike price  
 
 - r = risk free rate  
+* Item1 *Item 2
 
 - sigma = volatility of the underlying stock  
 
