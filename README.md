@@ -6,7 +6,9 @@ I decided to take this course in order to improve my coding on Jupyter Lab, and 
 
 **Black & Scholes modelling : from the B&S mathematical equation, i gave the formula for a Call and a Put**
 
-1.N() = cumulative distribution function 2.T = time left til' maturity (in years)   
+- N() = cumulative distribution function 
+
+- T = time left til' maturity (in years)   
 
 - T = time left til' maturity (in years)  
 
