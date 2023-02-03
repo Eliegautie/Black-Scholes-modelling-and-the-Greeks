@@ -6,7 +6,7 @@
 - SimTrade blog - Options Greeks : https://www.simtrade.fr/blog_simtrade/option-greeks-vega/
 
 
-**Black & Scholes modelling : from the B&S mathematical equation, i gave the formula for a Call and a Put :**
+**Black & Scholes modelling :**
 
 - N() = cumulative distribution function 
 
