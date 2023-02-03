@@ -2,6 +2,7 @@
 
 *Ressources:*  
 - Udemy class 'Mathematical Finance with Python' : https://www.udemy.com/
+- SimTrade blog - Options Greeks : https://www.simtrade.fr/blog_simtrade/option-greeks-theta/
 - SimTrade blog - Options Greeks : https://www.simtrade.fr/blog_simtrade/option-greeks-vega/
 
 
