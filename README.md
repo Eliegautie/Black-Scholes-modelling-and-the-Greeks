@@ -44,7 +44,7 @@ Delta measures the sensitivity of an option's price to movement in the underlyin
 **Theta:**  
 The theta of a portfolio of options is the rate of change of the value of the portfolio with respect to the passage of time. Theta is sometimes referred to as the time decay of the portfolio. For a European call option on a nondividend-paying stock, it can be shown from the **Black–Scholes–Merton** formul. Theta is always a negative number (option are a wasting asset), as we get closer to the expiration date of the option, Theta become greater and greater.  
 
-In these formulas, time is measured in years. Usually, when theta is quoted, time is measured in days, so that theta is the change in the portfolio value when 1 day passes with all else remaining the same. (That(s why i divided by 252 to get Theta per trading day)
+
 
 
 
