@@ -18,14 +18,9 @@
 
 - r = risk free rate  
 
+- q = annualized dividend
+
 - sigma = volatility of the underlying stock  
-
-
-In the first graph, we can see a relationship between **S** and the values of the Call and Put. When **S** increases, the value of the Call increases and the value of the Put decreases and vice versa.  
-
-If i buy a Call option with a strike price **K** at the money or in the money (meaning that at the time of the purchase **S** = **K** or **S** > **K**), if S increases the profit I can make from exercising my option increases 
-
-If I buy the Call out of the money (**K** > **S**), as S gets closer to K, my Call option increases in value. 
 
 
 **T become a variable :**  
